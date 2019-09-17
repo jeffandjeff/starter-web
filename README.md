@@ -14,4 +14,6 @@ using web projects.
 
 ## Purpose
 
+We have to keep editing it.
+
 Sample website with plenty of files for demos
