@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a simple web application to demonstrate
-the use of git. Adding a line, hello people.
+the use of git. Adding a line, hello people. Emerging fix
 
 ## Introduction
 
